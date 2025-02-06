@@ -32,8 +32,8 @@ This project enables users to quickly receive concise, high-quality summaries of
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/crewai-news-agent.git
-cd crewai-news-agent
+git clone https://github.com/gravitas-ai-admin/news_ai_agent.git
+cd news_ai_agent
 ```
 
 ### 2️⃣ Install Dependencies
